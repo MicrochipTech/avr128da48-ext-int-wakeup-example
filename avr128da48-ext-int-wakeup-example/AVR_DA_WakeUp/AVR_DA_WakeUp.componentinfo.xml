@@ -15,7 +15,11 @@
 			<Description></Description>
 			<Files xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
 				<d4p1:anyType i:type="FileInfo">
+<<<<<<< HEAD:avr128da48-ext-int-wakeup-example/AVR_DA_WakeUp/AVR_DA_WakeUp.componentinfo.xml
 					<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\AVR-Dx_DFP\1.0.18\include</AbsolutePath>
+=======
+					<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\AVR-Dx_DFP\1.0.27\include</AbsolutePath>
+>>>>>>> b9cf7b98a94fd06362d978525fdaf154f58655d6:AVR_DA_WakeUp/AVR_DA_WakeUp/AVR_DA_WakeUp.componentinfo.xml
 					<Attribute></Attribute>
 					<Category>include</Category>
 					<Condition>C</Condition>
@@ -26,18 +30,30 @@
 					<SourcePath></SourcePath>
 				</d4p1:anyType>
 				<d4p1:anyType i:type="FileInfo">
+<<<<<<< HEAD:avr128da48-ext-int-wakeup-example/AVR_DA_WakeUp/AVR_DA_WakeUp.componentinfo.xml
 					<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\AVR-Dx_DFP\1.0.18\include\avr\ioavr128da48.h</AbsolutePath>
 					<Attribute></Attribute>
 					<Category>header</Category>
 					<Condition>C</Condition>
 					<FileContentHash>N/6g5KHCI3hYKkDdWII/Xg==</FileContentHash>
+=======
+					<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\AVR-Dx_DFP\1.0.27\include\avr\ioavr128da48.h</AbsolutePath>
+					<Attribute></Attribute>
+					<Category>header</Category>
+					<Condition>C</Condition>
+					<FileContentHash>UkmjA1GAVGLa8luGHM3g6w==</FileContentHash>
+>>>>>>> b9cf7b98a94fd06362d978525fdaf154f58655d6:AVR_DA_WakeUp/AVR_DA_WakeUp/AVR_DA_WakeUp.componentinfo.xml
 					<FileVersion></FileVersion>
 					<Name>include/avr/ioavr128da48.h</Name>
 					<SelectString></SelectString>
 					<SourcePath></SourcePath>
 				</d4p1:anyType>
 				<d4p1:anyType i:type="FileInfo">
+<<<<<<< HEAD:avr128da48-ext-int-wakeup-example/AVR_DA_WakeUp/AVR_DA_WakeUp.componentinfo.xml
 					<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\AVR-Dx_DFP\1.0.18\templates\main.c</AbsolutePath>
+=======
+					<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\AVR-Dx_DFP\1.0.27\templates\main.c</AbsolutePath>
+>>>>>>> b9cf7b98a94fd06362d978525fdaf154f58655d6:AVR_DA_WakeUp/AVR_DA_WakeUp/AVR_DA_WakeUp.componentinfo.xml
 					<Attribute>template</Attribute>
 					<Category>source</Category>
 					<Condition>C Exe</Condition>
@@ -48,7 +64,11 @@
 					<SourcePath></SourcePath>
 				</d4p1:anyType>
 				<d4p1:anyType i:type="FileInfo">
+<<<<<<< HEAD:avr128da48-ext-int-wakeup-example/AVR_DA_WakeUp/AVR_DA_WakeUp.componentinfo.xml
 					<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\AVR-Dx_DFP\1.0.18\templates\main.cpp</AbsolutePath>
+=======
+					<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\AVR-Dx_DFP\1.0.27\templates\main.cpp</AbsolutePath>
+>>>>>>> b9cf7b98a94fd06362d978525fdaf154f58655d6:AVR_DA_WakeUp/AVR_DA_WakeUp/AVR_DA_WakeUp.componentinfo.xml
 					<Attribute>template</Attribute>
 					<Category>source</Category>
 					<Condition>C Exe</Condition>
@@ -59,7 +79,11 @@
 					<SourcePath></SourcePath>
 				</d4p1:anyType>
 				<d4p1:anyType i:type="FileInfo">
+<<<<<<< HEAD:avr128da48-ext-int-wakeup-example/AVR_DA_WakeUp/AVR_DA_WakeUp.componentinfo.xml
 					<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\AVR-Dx_DFP\1.0.18\gcc\dev\avr128da48</AbsolutePath>
+=======
+					<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\AVR-Dx_DFP\1.0.27\gcc\dev\avr128da48</AbsolutePath>
+>>>>>>> b9cf7b98a94fd06362d978525fdaf154f58655d6:AVR_DA_WakeUp/AVR_DA_WakeUp/AVR_DA_WakeUp.componentinfo.xml
 					<Attribute></Attribute>
 					<Category>libraryPrefix</Category>
 					<Condition>GCC</Condition>
@@ -71,8 +95,13 @@
 				</d4p1:anyType>
 			</Files>
 			<PackName>AVR-Dx_DFP</PackName>
+<<<<<<< HEAD:avr128da48-ext-int-wakeup-example/AVR_DA_WakeUp/AVR_DA_WakeUp.componentinfo.xml
 			<PackPath>C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/1.0.18/Atmel.AVR-Dx_DFP.pdsc</PackPath>
 			<PackVersion>1.0.18</PackVersion>
+=======
+			<PackPath>C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/1.0.27/Atmel.AVR-Dx_DFP.pdsc</PackPath>
+			<PackVersion>1.0.27</PackVersion>
+>>>>>>> b9cf7b98a94fd06362d978525fdaf154f58655d6:AVR_DA_WakeUp/AVR_DA_WakeUp/AVR_DA_WakeUp.componentinfo.xml
 			<PresentInProject>true</PresentInProject>
 			<ReferenceConditionId>AVR128DA48</ReferenceConditionId>
 			<RteComponents xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
